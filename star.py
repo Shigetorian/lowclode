@@ -1,7 +1,7 @@
 import random
 import time 
 import os
-u = 0
+u = 5515
 types = ['cs','py','js','kt','html','css','vbs','php']
 while True:
     u+=1
